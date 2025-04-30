@@ -1,0 +1,1 @@
+#  // index //replace.// working with numbers   ,,math,, math functios ,,input,,
