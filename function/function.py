@@ -98,6 +98,8 @@ def square(n):
 def show():
     print("square of  s is |", square(6))
     
-    
+     
     
 show()
+
+
